@@ -78,9 +78,8 @@ An interactive Tableau dashboard was created to visualize key business metrics i
 - Dynamic Filters for deeper exploration
 
 🔗 **Dashboard Link:**  
-👉 https://public.tableau.com/views/YOUR_DASHBOARD_LINK
+👉 (https://public.tableau.com/app/profile/pratik.parhad/viz/BusinessPerformanceDashboard_17696249930840/CustomerShoppingPerformanceDashBoard?publish=yes)
 
-*(Replace with your actual Tableau Public link)*
 
 ---
 
